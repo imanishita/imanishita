@@ -13,9 +13,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanishita" height="30" width="40" />
   </a>
   <a href="https://imanishita.vercel.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/internetexplorer.svg" alt="portfolio" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
