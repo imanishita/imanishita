@@ -6,15 +6,23 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e9f3346b3ffd50eb559a31eda475cf321e2ede3284f37ba8e92e57b6fbd7a1b4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
 💋 How to reach me:  
-📧 **imanishita17@gmail.com**  
+</a>
+<a href="mailto:imanishita17@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/imanishita" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imanishita" height="30" width="40" />
-  </a>
-  <a href="https://imanishita.vercel.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="30" width="40" />
-  </a>
+<p align="center">
+<a href="https://linkedin.com/in/imanishita">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://leetcode.com/imanishita">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a>
+  <img src="https://img.shields.io/badge/Website-imanishita.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+
+</a>
+</p>>
 </p>
 
 
