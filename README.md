@@ -38,3 +38,12 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanishita&show_icons=true&locale=en&layout=compact" alt="imanishita" /></p>
+
+
+<h3 align="left">LeetCode Heatmap</h3>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/imanishita?theme=dark&font=ubuntu&ext=heatmap&border=0" width="100%" />
+</p>
+
+
