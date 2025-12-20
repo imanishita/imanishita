@@ -11,16 +11,14 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/imanishita">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://leetcode.com/imanishita">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a>
-  <img src="https://img.shields.io/badge/Website-imanishita.vercel.app-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-
-
+<a href="-imanishita.vercel.app">
+<img src="https://img.shields.io/badge/ManishitaBiswas-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>>
 </p>
