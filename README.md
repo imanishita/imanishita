@@ -49,6 +49,8 @@
     </td>
   </tr>
 </table>
-<div align="center">
-<sub>Long story short, I code.</sub>
-</div>
+<br/>
+<p align="center">
+  <em>Long story short, I code.</em>
+</p>
+
