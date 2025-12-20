@@ -17,7 +17,7 @@
 <a href="https://leetcode.com/imanishita">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-<a href="-imanishita.vercel.app">
+<a href="https://imanishita.vercel.app">
 <img src="https://img.shields.io/badge/ManishitaBiswas-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
