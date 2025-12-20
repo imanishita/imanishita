@@ -43,13 +43,13 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanishita&show_icons=true&locale=en&layout=compact" alt="imanishita" /></p>
-
-
-<h3 align="left">LeetCode Heatmap</h3>
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/imanishita?theme=dark&font=ubuntu&ext=heatmap&border=0" width="100%" />
-</p>
-
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imanishita&show_icons=true&locale=en&layout=compact" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://leetcard.jacoblin.cool/imanishita?theme=dark&font=ubuntu&ext=heatmap&border=0" />
+    </td>
+  </tr>
+</table>
