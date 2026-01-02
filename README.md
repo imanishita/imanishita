@@ -5,13 +5,11 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/e9f3346b3ffd50eb559a31eda475cf321e2ede3284f37ba8e92e57b6fbd7a1b4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f53353962506b543070716341414141432f70726f6772616d6d696e672e676966">
 
-💋 How to reach me:  
+How to reach me:  
 </a>
 <a href="mailto:imanishita17@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<h3 align="left">Connect with me:</h3>
-<p>
 <a href="https://linkedin.com/in/imanishita">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://leetcode.com/imanishita">
@@ -55,9 +53,6 @@
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
-
-| Github Stats |
-[![](https://github-readme-stats.vercel.app/api?username=imanishita)](https://github.com/imanishita/github-readme-stats)
 
 
 <br/>
