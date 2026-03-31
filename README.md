@@ -99,13 +99,8 @@ public class Manishita {
   <img src="https://streak-stats.demolab.com/?user=imanishita&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imanishita&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-</div>
 
 ---
 
